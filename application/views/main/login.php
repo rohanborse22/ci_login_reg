@@ -27,6 +27,8 @@
 					<small id="emailHelp" class="form-text red-text text-muted"><?php echo form_error('password')?></small>
 				</div>
 				<button type="submit" class="btn btn-primary" value="login">Submit</button>
+				<a  href="<?php echo base_url(); ?>login/signup">Signup</a>
+
 			</form>
 
 		</div>

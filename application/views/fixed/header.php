@@ -18,7 +18,7 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto ">
         <li class="nav-item active">
-          <a class="nav-link float-right" href="<? echo base_url().'login/logout' ?>">Logout <span class="sr-only">(current)</span></a>
+          <a class="nav-link float-right" href="logout">Logout <span class="sr-only">(current)</span></a>
         </li>
       </ul>
     </div>
